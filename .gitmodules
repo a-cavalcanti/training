@@ -1,0 +1,4 @@
+[submodule "marian-for-cpu/TOOLS_marian-dev"]
+	path = marian-for-cpu/TOOLS_marian-dev
+	url = https://github.sec.samsung.net/a-cavalcanti/TOOLS_marian-dev.git
+	branch = srpol-marian-dev
